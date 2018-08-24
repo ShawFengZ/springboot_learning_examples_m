@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    username: root
+    password:
+    url: jdbc:mysql://localhost:3306/enhancer
+    driver-class-name: com.mysql.jdbc.Driver
+    type:
+
